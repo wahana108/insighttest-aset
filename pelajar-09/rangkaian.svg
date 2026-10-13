@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<rect width="100%" height="100%" fill="#f7f4ee"/>
+<circle cx="200" cy="180" r="30" fill="none" stroke="#243044" stroke-width="4"/>
+<text x="200" y="186" text-anchor="middle" font-family="sans-serif" font-size="18">L</text>
+<rect x="360" y="150" width="60" height="60" fill="none" stroke="#243044" stroke-width="4"/>
+<line x1="230" y1="180" x2="360" y2="180" stroke="#243044" stroke-width="3"/>
+<text x="320" y="50" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#243044">rangkaian</text>
+</svg>
