@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="16" fill="#0f172a"/>
+  <rect x="20" y="48" width="160" height="104" rx="10" fill="#15803d" stroke="#ffffff" stroke-width="5"/>
+  <polygon points="100,62 82,84 94,84 94,104 106,104 106,84 118,84" fill="#ffffff"/>
+  <text x="100" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff">KOTA / ARAH</text>
+</svg>
